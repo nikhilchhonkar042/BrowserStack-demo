@@ -1,0 +1,13 @@
+2025-07-10 15:44:14,461 - INFO - BrowserStack Local started.
+2025-07-10 15:44:14,461 - INFO - Starting BrowserStack test run for El País scraper
+2025-07-10 15:44:21,201 - INFO - Opening El País - Opinión section...
+2025-07-10 15:44:52,577 - INFO - Image saved: screenshots\Opinión.jpg
+2025-07-10 15:45:01,677 - INFO - Image saved: screenshots\Opinión.jpg
+2025-07-10 15:45:09,974 - INFO - Image saved: screenshots\Opinión.jpg
+2025-07-10 15:45:25,151 - INFO - Image saved: screenshots\La_vieja_y_la_nueva_corrupción.jpg
+2025-07-10 15:45:31,903 - INFO - Image saved: screenshots\.jpg
+2025-07-10 15:45:35,793 - ERROR - Translation failed: the JSON object must be str, bytes or bytearray, not NoneType
+2025-07-10 15:45:41,527 - INFO - Readable output saved to: output\articles_output.txt
+2025-07-10 15:45:41,527 - INFO - JSON output saved to: output\articles_output.json
+2025-07-10 15:45:41,528 - INFO - opinion: 3
+2025-07-10 15:45:43,770 - INFO - BrowserStack Local stopped.
