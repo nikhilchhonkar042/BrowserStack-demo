@@ -52,3 +52,27 @@ Thu Jul 10 2025 15:44:13:922 GMT+0530 (India Standard Time) -- [SUCCESS] You can
 Thu Jul 10 2025 15:44:22:162 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
 
 
+
+Thu Jul 17 2025 18:52:47:821 GMT+0530 (India Standard Time) -- [WARNING] Detected instance of BrowserStackLocal Application, running in onlyAutomate mode to avoid port clash
+Thu Jul 17 2025 18:52:47:833 GMT+0530 (India Standard Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Thu Jul 17 2025 18:52:49:974 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Thu Jul 17 2025 18:52:50:822 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Thu Jul 17 2025 19:13:17:217 GMT+0530 (India Standard Time) -- [WARNING] Detected instance of BrowserStackLocal Application, running in onlyAutomate mode to avoid port clash
+Thu Jul 17 2025 19:13:17:394 GMT+0530 (India Standard Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Thu Jul 17 2025 19:13:19:823 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Thu Jul 17 2025 19:13:20:827 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Thu Jul 17 2025 19:23:36:299 GMT+0530 (India Standard Time) -- [WARNING] Detected instance of BrowserStackLocal Application, running in onlyAutomate mode to avoid port clash
+Thu Jul 17 2025 19:23:36:397 GMT+0530 (India Standard Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Thu Jul 17 2025 19:23:38:361 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Thu Jul 17 2025 19:23:40:661 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+

@@ -1,48 +1,49 @@
 ==== Translated Articles from El País - Opinión ====
 
-📰 Article 1: Opinion
+📰 Article 1: Opinión
 🔗 Link: https://elpais.com/opinion/editoriales/
 
 EDITORIAL
-Oxygen for Pedro Sánchez
-El País | Jul 09, 2025 - 16:01 EDT
-Most members prefer to avoid early elections.Now it's the government to do more than survive
+Discapacidad, dependencia, dignidad
+EL PAÍS|17 JUL 2025 - 05:30 CEST
+Millones de personas se verán beneficiadas por las mejoras de la ley, que debe permanecer fuera del enfrentamiento político
 
 ----------------------------------------------------------------------------------------------------
 
-📰 Article 2: Opinion
+📰 Article 2: Opinión
 🔗 Link: https://elpais.com/opinion/editoriales/
 
 EDITORIAL
-Oxygen for Pedro Sánchez
-El País | Jul 09, 2025 - 16:01 EDT
-Most members prefer to avoid early elections.Now it's the government to do more than survive
+Discapacidad, dependencia, dignidad
+EL PAÍS|17 JUL 2025 - 05:30 CEST
+Millones de personas se verán beneficiadas por las mejoras de la ley, que debe permanecer fuera del enfrentamiento político
 
 ----------------------------------------------------------------------------------------------------
 
-📰 Article 3: Opinion
-🔗 Link: https://elpais.com/opinion/tribunas/
+📰 Article 3: La financiación singular de Cataluña: asimetría dentro del régimen común
+🔗 Link: https://elpais.com/opinion/2025-07-17/la-financiacion-singular-de-cataluna-asimetria-dentro-del-regimen-comun.html
 
-Artificial intelligence (AI) and responsible statements: more corruption?
-Antonio Vercher Noguera | Jul 10, 2025 - 05:42 EDT
-The responsible statements are taking the complicated urban world, in which they should not be
+TRIBUNA
+i
+La financiación singular de Cataluña: asimetría dentro del régimen común
+El nuevo sistema no rompe con el diseño constitucional y puede ayudar a corregir fallos del actual, pero exige prestar atención al modo en que se cuantificará el cupo y al método de liquidación
 
 ----------------------------------------------------------------------------------------------------
 
-📰 Article 4: The old and the new corruption
-🔗 Link: https://elpais.com/opinion/2025-07-10/la-vieja-y-la-nueva-corrupcion.html
+📰 Article 4: El amor en tiempos de la IA
+🔗 Link: https://elpais.com/opinion/2025-07-17/el-amor-en-tiempos-de-la-ia.html
 
-GRANDSTAND
-Yo
-The old and the new corruption
-The phenomenon that centers today the attention of politics is also found throughout the contemporary stage of Spain
+TRIBUNA
+i
+El amor en tiempos de la IA
+Los vínculos subjetivos son los que nos hacen humanos. Y eso es algo que ningún robot puede alcanzar
 
 ----------------------------------------------------------------------------------------------------
 
 📰 Article 5: 
-🔗 Link: https://elpais.com/opinion/2025-07-07/tiempos-muertos.html
+🔗 Link: https://elpais.com/opinion/2025-07-14/aquel-verano-raro.html
 
-6 photos
+6 fotos
 
 ----------------------------------------------------------------------------------------------------
 
@@ -50,8 +51,8 @@ The phenomenon that centers today the attention of politics is also found throug
 
 No.      Title                                                        Link
 ------------------------------------------------------------------------------------------------------------------------
-1        Opinion                                                      https://elpais.com/opinion/editoriales/
-2        Opinion                                                      https://elpais.com/opinion/editoriales/
-3        Opinion                                                      https://elpais.com/opinion/tribunas/
-4        The old and the new corruption                               https://elpais.com/opinion/2025-07-10/la-vieja-y-la-nueva-corrupcion.html
-5                                                                     https://elpais.com/opinion/2025-07-07/tiempos-muertos.html
+1        Opinión                                                      https://elpais.com/opinion/editoriales/
+2        Opinión                                                      https://elpais.com/opinion/editoriales/
+3        La financiación singular de Cataluña: asimetría dentro de... https://elpais.com/opinion/2025-07-17/la-financiacion-singular-de-cataluna-asimetria-dentro-del-regimen-comun.html
+4        El amor en tiempos de la IA                                  https://elpais.com/opinion/2025-07-17/el-amor-en-tiempos-de-la-ia.html
+5                                                                     https://elpais.com/opinion/2025-07-14/aquel-verano-raro.html

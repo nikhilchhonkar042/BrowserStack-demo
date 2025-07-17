@@ -4,6 +4,7 @@ import re
 import time
 import json
 import requests
+from datetime import datetime
 from collections import Counter
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -16,8 +17,12 @@ from browserstack.local import Local
 
 # ------------------ Setup Logging ------------------
 os.makedirs("logs", exist_ok=True)
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+LOG_FILE = f"logs/scraper_{timestamp}.log"
+OUTPUT_TXT = f"output/articles_output_{timestamp}.txt"
+OUTPUT_JSON = f"output/articles_output_{timestamp}.json"
 logging.basicConfig(
-    filename="logs/scraper.log",
+    filename=LOG_FILE,
     filemode="w",
     format="%(asctime)s - %(levelname)s - %(message)s",
     level=logging.INFO
@@ -128,6 +133,11 @@ def translate_text_list(texts):
     for text in texts:
         try:
             result = translator.translate(text, src='es', dest='en')
+            # If result is a coroutine, run it synchronously
+            if hasattr(result, '__await__'):
+                import asyncio
+                loop = asyncio.get_event_loop()
+                result = loop.run_until_complete(result)
             translated.append(result.text)
         except Exception as e:
             logging.error(f"Translation failed: {e}")
@@ -137,7 +147,7 @@ def translate_text_list(texts):
 # ------------------ Save Output ------------------
 def save_articles_to_file(articles, filename="articles_output.txt"):
     os.makedirs("output", exist_ok=True)
-    filepath = os.path.join("output", filename)
+    filepath = OUTPUT_TXT
     with open(filepath, "w", encoding="utf-8") as f:
         f.write("==== Translated Articles from El País - Opinión ====\n\n")
         for idx, article in enumerate(articles, 1):
@@ -155,7 +165,7 @@ def save_articles_to_file(articles, filename="articles_output.txt"):
 
 def save_articles_to_json(articles, filename="articles_output.json"):
     os.makedirs("output", exist_ok=True)
-    filepath = os.path.join("output", filename)
+    filepath = OUTPUT_JSON
     try:
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(articles, f, ensure_ascii=False, indent=4)
